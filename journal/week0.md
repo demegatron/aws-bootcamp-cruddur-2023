@@ -4,7 +4,7 @@
 
 To start with, I need to create a conceptual diagram which is going to give synthesised knowlege of what I'm going to design. Below is my homework screen short
 
-![Conceptual](d:/03-My%20Learning%20Space/03-AWS%20Learning/AWS%20BootCamp%20By%20Andrew%20Brown/Week%200/01-Cruddur%20Conceptual%20Diagram.jpg)
+![01-Cruddur Conceptual Diagram](https://user-images.githubusercontent.com/125898525/222930940-8435750c-4892-40ca-b502-c4475b2ca7b8.jpg)
 
 - LUCID CHART LINK: https://lucid.app/lucidchart/d4d163c3-a42a-4658-a6e5-78f4f399b411/edit?viewport_loc=-1611%2C1634%2C2663%2C1142%2C0_0&invitationId=inv_f4e2ea42-52f5-4579-8d1f-6477b0b488ba
 
@@ -12,21 +12,21 @@ To start with, I need to create a conceptual diagram which is going to give synt
 
 Below is the screenshot and link for Architectual diagram of cruddur application that I recreate to complete my homework.
 
-![Architectual](d:/03-My%20Learning%20Space/03-AWS%20Learning/AWS%20BootCamp%20By%20Andrew%20Brown/Week%200/02-Architectual%20Diagram.jpg)
+![02-Architectual Diagram](https://user-images.githubusercontent.com/125898525/222930966-3a341862-1915-47bc-8650-51422967be06.jpg)
 
 - LUCIDCHART LINK: https://lucid.app/lucidchart/b54ce76e-ea70-489c-bc92-823c8879f844/edit?viewport_loc=-997%2C264%2C3451%2C1480%2C0_0&invitationId=inv_bf6c3d24-88e7-41aa-9dd0-b29e7114f095
 
 # Checklist 3. Create Admin User
 
-![AdminUser](d:/03-My%20Learning%20Space/03-AWS%20Learning/AWS%20BootCamp%20By%20Andrew%20Brown/Week%200/Admin%20User.JPG)
+![Admin User](https://user-images.githubusercontent.com/125898525/222930987-714b890c-bacd-4c0e-8830-8f10876dc9d3.JPG)
 
 # Checklist 4. Installed AWS CLI
 
-![AWSCLI-Installed](d:/03-My%20Learning%20Space/03-AWS%20Learning/AWS%20BootCamp%20By%20Andrew%20Brown/Week%200/Installed%20AWS%20CLI.JPG)
+![Installed AWS CLI](https://user-images.githubusercontent.com/125898525/222931004-fdd2d557-d724-4a5d-86e9-c107911ff2ba.JPG)
 
 # Checklist 5. Create a Budget
 
-![Budget](d:/03-My%20Learning%20Space/03-AWS%20Learning/AWS%20BootCamp%20By%20Andrew%20Brown/Week%200/Budget.JPG)
+![Budget](https://user-images.githubusercontent.com/125898525/222931017-d701e998-012a-4c09-87c1-562d38a9b375.JPG)
 
 # Checklist 6. Created Billing Alarm and Generate AWS User credentials
 
