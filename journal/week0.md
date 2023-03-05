@@ -70,6 +70,16 @@ The best practice for assigning a role to any user is by following the principle
 4. Shared responsibity of Threat Detection
 5. Incident Response plans to include cloud.
 
+aws budgets create-budget \
+    --account-id $ACCOUNT_ID \
+    --budget file://aws/json/budget.json \
+    --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
+
+
+    aws sns subscribe \
+    --topic-arn="arn:aws:sns:us-east-1:115470430446:billing-alarm" \
+    --protocol=email \
+    --notification-endpoint=sbibrahim_01@demegatron.com
 
 
 

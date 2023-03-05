@@ -1,0 +1,17 @@
+
+[
+    {
+        "Notification": {
+            "ComparisonOperator": "GREATER_THAN",
+            "NotificationType": "ACTUAL",
+            "Threshold": 80,
+            "ThresholdType": "PERCENTAGE"
+        },
+        "Subscribers": [
+            {
+                "Address": "sbibrahim_01@demegatron.com",
+                "SubscriptionType": "EMAIL"
+            }
+        ]
+    }
+  ]
